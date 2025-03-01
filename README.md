@@ -17,7 +17,7 @@ Play with AI: Play against a simple AI opponent.
 
 How to Run the Game
 Clone the Repository:
-https://github.com/deependra-bit/PRODIGY_WD_01.git
+https://deependra-bit.github.io/PRODIGY_WD_01/
 
 Navigate to the Project Folder:
 cd tic-tac-toe
